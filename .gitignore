@@ -1,3 +1,7 @@
+# .@w3nc0rp
+*.swp
+
+# .init
 .DS_Store
 /.build
 /Packages
